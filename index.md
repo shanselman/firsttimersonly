@@ -47,7 +47,7 @@ Go label an issue or two with `first-timers-only` and *advertise that those issu
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
-[Kent C. Dodds proposed First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) to get  new people to make their first contribution. [Scott Hanselman](http://hanselman.com) blogged about [Bringing Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
+[Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) to get  new people to make their first contribution. [Scott Hanselman](http://hanselman.com) blogged about [Bringing Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
 
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ are can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here! 
