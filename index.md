@@ -48,7 +48,7 @@ Most importantly, anyone who's already contributed to open source isn't allowed 
 
 First timer contributions are normally very small and easy (One recent `first-timers-only` issue was literally 10 characters or so!) But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._
 
-Why is YAL (yet another label) like `first-timers-only` important? Because is makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feelingn of accomplishment when your first PR is merged!
+Why is YAL (yet another label) like `first-timers-only` important? Because is makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged!
 
 Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same!
 
