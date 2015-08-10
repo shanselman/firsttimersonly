@@ -34,7 +34,7 @@ Some had bad experiences. The purpose of `first-timers-only` is to help everyone
 
 ### Are you an OSS Project Owner?
 
-This initiative was started after [a blogpost by Kent C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455). You may want to read that to see how he approaches it. If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
+If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
 
 > I'm willing to hold your hand so you can make your first PR. This issue is rather a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
@@ -46,6 +46,8 @@ Why is YAL (yet another label) like `first-timers-only` important? Because is ma
 Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same! And add this badge to your repo's README:
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
+
+[Kent C. Dodds proposed First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) to get  new people to make their first contribution. [Scott Hanselman](http://hanselman.com) blogged about [Bringing Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
 
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ are can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here! 
