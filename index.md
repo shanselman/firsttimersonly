@@ -14,7 +14,7 @@ If you have never contributed to an open source project before and you're just g
 * We think that Open Source projects [should value civility and kindness and be patient with new deveopers](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) and we encourage you to explore projects that have a published [Code of Conduct](http://contributor-covenant.org/) and we hope you do too!
 
 ### Are you an OSS Project Owner?
-If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label excpliciltly announces: 
+If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
 > "I'm willing to hold your hand so you can make your first PR. This issue is is rather a bit easier than normal." 
   
 Most importantly, anyone who's already contributed to open source isn't allowed to touch this one!
@@ -23,7 +23,7 @@ First timer contributions are normally very small and easy (One recent `first-ti
 
 Why is YAL (yet another label) like `first-timers-only` important? Because is makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feelingn of accomplishment when your first PR is merged!
 
-Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walka newvie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same!
+Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same!
 
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ are can empower the next generation of coders and creatord. We VALUE first time contibutors and we want them to know that everyone started somewhere! Start here! 
