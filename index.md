@@ -1,17 +1,24 @@
 ---
 layout: index
 ---
-### Just a Quick Test.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub for Mac or GitHub for Windows, simply sync your repository and you’ll see the new branch.
+### Welcome! Let's do some Open Source!
+Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a [Code Newbie](http://www.codenewbie.org) or perhaps you've been coding for a while but haven't found a project you felt comfortable contributing to.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### You can do it! Here's how.
+If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+* http://up-for-grabs.net is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs," "jump-in" or "help wanted." 
+* If you're really just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
+* We think that Open Source projects [should value civility and kindness and be patient with new deveopers](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx)
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### OSS Project Owner?
+If you are an Open Source Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label says: "I'm willing to hold your hand so you can make your first PR. This issue is is rather a bit easier than normal." Most importantly, anyone who's already contributed to open source isn't allowed to touch this one!
+
+First timer contributions are normally very small and easy (One recent `first-timers-only` issue was literally 10 characters or so!) But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._
+
+Why is YAL (yet another label) like first-timers-only  importnat? Because often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code] https://medium.com/@kentcdodds/first-timers-only-78281ea47455 such that the pull request is accepted! But, oh the feelingn of accomplishment when your first PR is merged!
+
+### Empower a First Timer today!
+We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ are can empower the next generation of coders and creatord. We VALUE first time contibutors and we want them to know that everyone started somewhere! Start here!
+
