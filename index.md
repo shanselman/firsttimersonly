@@ -32,8 +32,6 @@ Some had bad experiences. The purpose of `first-timers-only` is to help everyone
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Can&#39;t remember the project, but it felt hostile, because I didn&#39;t know the contribution rules of the project, and got remarks.</p>&mdash; Bart Verkoeijen (@bgever) <a href="https://twitter.com/bgever/status/630598265365401601">August 10, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> <a href="https://twitter.com/saronyitbarek">@saronyitbarek</a> badly :) i tried to contribute and couldn&#39;t get anything to work and felt incompetent.</p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/630608404923285504">August 10, 2015</a></blockquote>
-
 ### Are you an OSS Project Owner?
 
 This initiative was started after [a blogpost by Kent C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455). You may want to read that to see how he approaches it. If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
