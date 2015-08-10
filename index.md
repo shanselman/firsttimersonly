@@ -21,24 +21,18 @@ We asked folks on Twitter what they felt like when they made their first contrib
 Some had great experiences:
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> proud and excited. Added a feature to freecodecamp. Felt welcomed and wondered what else I was able to do.</p>&mdash; Ashley Drake (@al_draco) <a href="https://twitter.com/al_draco/status/630564607527137280">August 10, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> I&#39;ve added a case for my project in ServiceStack.Text + small test. Jumped around office for an hour when it was approved.</p>&mdash; Victor Suzdalev (@victor_suzdalev) <a href="https://twitter.com/victor_suzdalev/status/630609157218041857">August 10, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Proud. It is really great to something you did on the web for others to see.</p>&mdash; Mark (@marcusp619) <a href="https://twitter.com/marcusp619/status/630549004015644672">August 10, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> added expression support for labels in a GIS project. Felt fantastic. Now core developer on said project.</p>&mdash; Nathan Woodrow (@madmanwoo) <a href="https://twitter.com/madmanwoo/status/630546384865722369">August 10, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Some had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software! 
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Can&#39;t remember the project, but it felt hostile, because I didn&#39;t know the contribution rules of the project, and got remarks.</p>&mdash; Bart Verkoeijen (@bgever) <a href="https://twitter.com/bgever/status/630598265365401601">August 10, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> <a href="https://twitter.com/saronyitbarek">@saronyitbarek</a> badly :) i tried to contribute and couldn&#39;t get anything to work and felt incompetent.</p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/630608404923285504">August 10, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Are you an OSS Project Owner?
 
@@ -58,3 +52,4 @@ Go label an issue or two with `first-timers-only` and *advertise that those issu
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ are can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here! 
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
