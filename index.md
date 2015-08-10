@@ -36,7 +36,7 @@ Some had bad experiences. The purpose of `first-timers-only` is to help everyone
 
 ### Are you an OSS Project Owner?
 
-If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
+This initiative was started after [a blogpost by Kent C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455). You may want to read that to see how he approaches it. If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
 
 > I'm willing to hold your hand so you can make your first PR. This issue is rather a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
