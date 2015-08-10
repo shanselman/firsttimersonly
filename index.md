@@ -41,16 +41,19 @@ Some had bad experiences. The purpose of `first-timers-only` is to help everyone
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Are you an OSS Project Owner?
+
 If you are an OSS (Open Source Software) Project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only). The `first-timers-only` label explicitly announces: 
 
 > I'm willing to hold your hand so you can make your first PR. This issue is rather a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
 
-First timer contributions are normally very small and easy (One recent `first-timers-only` issue was literally 10 characters or so!) But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._
+First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.
 
 Why is YAL (yet another label) like `first-timers-only` important? Because is makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged!
 
-Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same!
+Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same! And add this badge to your repo's README:
+
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ are can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here! 
