@@ -45,7 +45,7 @@ Why is YAL (yet another label) like `first-timers-only` important? Because is ma
 
 Go label an issue or two with `first-timers-only` and *advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same! And add this badge to your repo's README:
 
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
+[![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
 [Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) to get  new people to make their first contribution. [Scott Hanselman](http://hanselman.com) blogged about [Bringing Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
 
