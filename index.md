@@ -51,6 +51,8 @@ Go label an issue or two with `first-timers-only` and *advertise that those issu
 
 [Charlotte Spencer](https://twitter.com/charlotteis) created a great twitter account called [@yourfirstpr](https://twitter.com/yourfirstpr) that exists to showcase great issues that a newbie can solve in order to create "Your First PullRequest!" We recommend you follow [@yourfirstpr](https://twitter.com/yourfirstpr) and let them know if your OSS project has a firsttimers only tag and you have open issues that you'll reserve for a new contributor!
 
+[Utkarsh Upadhyay](https://twitter.com/musically_ut) created a bot called [@first_tmrs_only](https://twitter.com/first_tmrs_only) which tweets when a new first-timers-only issue is posted on GitHub. Follow it to stay abreast with latest first-timers-only issues!
+
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here! 
 
