@@ -8,6 +8,7 @@ Contributing to open source for the first time can be scary and a little overwhe
 ### You can do it! Here's how.
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
+* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the turorial, you'd have made a contribution to the same project.
 * [http://up-for-grabs.net](http://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted." 
 * Read blog posts and guides on how to [contribute to an open source project](http://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
 * If you're just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
