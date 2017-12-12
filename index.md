@@ -47,6 +47,11 @@ Go label an issue or two with `first-timers-only` and *advertise* that those iss
 
 [![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
+Markdown snippet:
+```markdown
+[![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
+```
+
 [Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) to get  new people to make their first contribution. [Scott Hanselman](http://hanselman.com) blogged about [Bringing Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
 
 [Charlotte Spencer](https://twitter.com/charlotteis) created a great twitter account called [@yourfirstpr](https://twitter.com/yourfirstpr) that exists to showcase great issues that a newbie can solve in order to create "Your First PullRequest!" We recommend you follow [@yourfirstpr](https://twitter.com/yourfirstpr) and let them know if your OSS project has a firsttimers only tag and you have open issues that you'll reserve for a new contributor!
