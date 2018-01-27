@@ -13,7 +13,7 @@ If you have never contributed to an open source project before and you're just g
 * Read blog posts and guides on how to [contribute to an open source project](http://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
 * If you're just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
 * Wondering what someone else's first contribution was? You can easily find out any GitHub username's "[First Pull Request](http://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](http://firstpr.me/#kentcdodds)).
-* We think that open source projects [should value civility and kindness and be patient with new developers](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) and we encourage you to explore projects that have a published [Code of Conduct](http://contributor-covenant.org/) and we hope you do too!
+* We think that open source projects [should value civility, kindness, and patience with new developers](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx). We encourage you to explore projects that have a published [Code of Conduct](http://contributor-covenant.org/).
 
 ### Yes, it's scary. But SO rewarding!
 
