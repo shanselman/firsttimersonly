@@ -8,8 +8,8 @@ Contributing to open source for the first time can be scary and a little overwhe
 ### You can do it! Here's how.
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
-* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the turorial, you'd have made a contribution to the same project.
-* [http://up-for-grabs.net](http://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted." 
+* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you'd have made a contribution to the same project.
+* [http://up-for-grabs.net](http://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
 * Read blog posts and guides on how to [contribute to an open source project](http://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
 * If you're just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
 * Wondering what someone else's first contribution was? You can easily find out any GitHub username's "[First Pull Request](http://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](http://firstpr.me/#kentcdodds)).
@@ -29,13 +29,13 @@ Some had great experiences:
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> added expression support for labels in a GIS project. Felt fantastic. Now core developer on said project.</p>&mdash; Nathan Woodrow (@madmanwoo) <a href="https://twitter.com/madmanwoo/status/630546384865722369">August 10, 2015</a></blockquote>
 
-Some had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)! 
+Some had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)!
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Can&#39;t remember the project, but it felt hostile, because I didn&#39;t know the contribution rules of the project, and got remarks.</p>&mdash; Bart Verkoeijen (@bgever) <a href="https://twitter.com/bgever/status/630598265365401601">August 10, 2015</a></blockquote>
 
 ### Are you an OSS Project Owner?
 
-If you are an OSS project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues). The `first-timers-only` label explicitly announces: 
+If you are an OSS project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues). The `first-timers-only` label explicitly announces:
 
 > I'm willing to hold your hand so you can make your first PR. This issue is rather a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
@@ -62,6 +62,6 @@ Markdown snippet:
 [Angie Gonzalez](https://agonzalez0515.github.io/) and [Arlene Perez](https://github.com/techforchange) created a GitHub app called [First Timers](https://github.com/apps/first-timers) that automates most of the process of creating `first-timers-only` issues. Install it the app on your repositories and commit simple changes to branches with names starting with `first-timers-` – the First Timers App will turn it into a fully fledged issue with all information a first-time Open Source contributor will need to make their first pull request.
 
 ### Empower a First Timer today!
-We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here! 
+We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here!
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
