@@ -8,7 +8,7 @@ Contributing to open source for the first time can be scary and a little overwhe
 ### You can do it! Here's how.
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
-* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the turorial, you'd have made a contribution to the same project.
+* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you'd have made a contribution to the same project.
 * [http://up-for-grabs.net](http://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
 * [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox everyday.
 * Read blog posts and guides on how to [contribute to an open source project](http://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
