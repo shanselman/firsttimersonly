@@ -114,7 +114,7 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 670px;
+  width: 870px;
   margin: 0 auto;
 }
 
@@ -135,14 +135,14 @@ a#forkme_banner:hover {
 }
 
 /* header */
-
+/*
 header {
   position: relative;
   z-index: 2;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 850px;
   top: 38px;
-}
+}*/
 
 header span.ribbon-inner {
   position: relative;
@@ -566,4 +566,52 @@ dd p:first-child {
   margin: .8em 0;
   font-size: .85em;
   font-style: italic;
+}
+
+html, body {
+    font-size: 20px;
+    font-family:
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      "Roboto",
+      "Oxygen",
+      "Ubuntu",
+      "Cantarell",
+      "Fira Sans",
+      "Droid Sans",
+      "Helvetica Neue",
+      sans-serif;
+    line-height: normal;
+    margin: 1rem;
+}
+
+h3 {
+    margin-top: 2rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+p, ul {
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+ul {
+    padding-left: 0;
+}
+li {
+    margin-bottom: .5rem;
+}
+
+pre {
+    overflow-y: auto;
+}
+
+.shell {
+    margin: auto;
+    max-width: 35em;
 }
