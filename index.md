@@ -13,7 +13,7 @@ If you have never contributed to an open source project before and you're just g
 * [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
 * Read blog posts and guides on how to [contribute to an open source project](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
 * If you're just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
-* Wondering what someone else's first contribution was? You can easily find out any GitHub usernames "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
+* Wondering what someone else's first contribution was? You can easily find out any GitHub username's "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
 * We think that open source projects [should value civility, kindness, and patience with new developers](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx). We encourage you to explore projects that have a published [Code of Conduct](https://www.contributor-covenant.org/).
 
 ### Yes, it's scary. But SO rewarding!
