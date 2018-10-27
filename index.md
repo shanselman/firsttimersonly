@@ -10,7 +10,7 @@ If you have never contributed to an open source project before and you're just g
 
 * [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you'd have made a contribution to the same project.
 * [https://up-for-grabs.net](https://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
-* [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox everyday.
+* [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favourite open-source projects and get a new open issue from them in your inbox everyday.
 * Read blog posts and guides on how to [contribute to an open source project](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
 * If you're just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
 * Wondering what someone else's first contribution was? You can easily find out any GitHub username's "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
@@ -56,7 +56,7 @@ Markdown snippet:
 
 [Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) to get  new people to make their first contribution. [Scott Hanselman](https://www.hanselman.com/) blogged about [Bringing Kindness Back to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
 
-[James Spencer](https://twitter.com/varjmes) created a great twitter account called [@yourfirstpr](https://twitter.com/yourfirstpr) that exists to showcase great issues that a newbie can solve in order to create "Your First PullRequest!" We recommend you follow [@yourfirstpr](https://twitter.com/yourfirstpr) and let them know if your OSS project has a `first-timers-only` tag and you have open issues that you'll reserve for a new contributor!
+[James Spencer](https://twitter.com/varjmes) created a great twitter account called [@yourfirstpr](https://twitter.com/yourfirstpr) that exists to showcase great issues that a newbie can solve in order to create "Your First Pull Request!" We recommend you follow [@yourfirstpr](https://twitter.com/yourfirstpr) and let them know if your OSS project has a `first-timers-only` tag and you have open issues that you'll reserve for a new contributor!
 
 [Utkarsh Upadhyay](https://twitter.com/musically_ut) created a bot called [@first_tmrs_only](https://twitter.com/first_tmrs_only) which tweets when a new first-timers-only issue is posted on GitHub. Follow it to stay abreast with latest first-timers-only issues!
 
