@@ -8,17 +8,17 @@ Contributing to open source for the first time can be scary and a little overwhe
 ### You can do it! Here's how.
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
-* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you'd have made a contribution to the same project.
+* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you have made a contribution to the same project.
 * [https://up-for-grabs.net](https://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
-* [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favourite open-source projects and get a new open issue from them in your inbox everyday.
+* [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
 * Read blog posts and guides on how to [contribute to an open source project](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
 * If you're just getting started with tech and are considering being a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
-* Wondering what someone else's first contribution was? You can easily find out any GitHub username's "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
+* Wondering what someone else's first contribution was? You can easily find out any GitHub usernames "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
 * We think that open source projects [should value civility, kindness, and patience with new developers](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx). We encourage you to explore projects that have a published [Code of Conduct](https://www.contributor-covenant.org/).
 
 ### Yes, it's scary. But SO rewarding!
 
-We asked folks on Twitter what they felt like when they made their first contribution to an open source project. Here's just a few of their tweets.
+We asked folks on Twitter what they felt when they made their first contribution to an open source project. Here are just a few of their tweets.
 
 Some had great experiences:
 
