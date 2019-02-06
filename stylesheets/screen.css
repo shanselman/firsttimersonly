@@ -148,7 +148,7 @@ header span.ribbon-inner {
   position: relative;
   display: block;
   background-color: #cd596b;
-  border: 4px solid #7c334f;
+  border: 4px solid #42001b;
   padding: 2px;
   z-index: 1;
 }
@@ -175,7 +175,7 @@ header span.right-tail {
 }
 
 header h1 {
-  background-color: #7c334f;
+  background-color: #42001b;
   font-size: 2.5em;
   font-weight: 800;
   font-style: normal;
@@ -187,7 +187,7 @@ header h1 {
 }
 
 header h2 {
-  background-color: #7c334f;
+  background-color: #42001b;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
@@ -293,7 +293,7 @@ footer span.ribbon-inner {
   position: relative;
   display: block;
   background-color: #cd596b;
-  border: 2px solid #7c334f;
+  border: 2px solid #42001b;
   padding: 1px;
   z-index: 1;
 }
@@ -302,7 +302,7 @@ footer p {
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   font-weight: bold;
   font-size: .8em;
-  color: #8b786f;
+  color: #42001b;
 }
 
 footer a {
@@ -310,7 +310,7 @@ footer a {
 }
 
 footer span.ribbon-inner p {
-  background-color: #7c334f;
+  background-color: #42001b;
   margin: 0;
   color: #e69b95;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
@@ -371,7 +371,7 @@ body {
 }
 
 a, a:hover {
-  color: #417090;
+  color: #0d3ba5;
 }
 
 a {
@@ -418,7 +418,7 @@ ul li {
 blockquote {
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   margin: 20px 0;
-  color: #8b786f;
+  color: #42001b;
   padding-left: 1.35em;
   background: transparent url('../images/blockquote-gfx.png') 0 4px no-repeat;
 }
@@ -528,7 +528,7 @@ dd p:first-child {
 .header-level-1 {
   font-size: 1.85em;
   border-bottom: .2em double #d3ccc1;
-  color: #7c334f;
+  color: #42001b;
   text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
@@ -538,7 +538,7 @@ dd p:first-child {
 
 .header-level-2 {
   font-size: 1.58em;
-  color: #7c334f;
+  color: #42001b;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #D3CCC1;
   line-height: 1.2;
@@ -559,7 +559,7 @@ dd p:first-child {
 .header-level-5 {
   margin: .7em 0;
   font-size: 1em;
-  color: #8b786f;
+  color: #42001b;
 }
 
 .header-level-6 {
