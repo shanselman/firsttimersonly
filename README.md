@@ -1,5 +1,5 @@
-# firsttimersonly
-The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
+# FirstTimersOnly
+This Repository is for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 Visit our live webpage at https://www.firsttimersonly.com/
 
 ## Empower a First Timer today!
