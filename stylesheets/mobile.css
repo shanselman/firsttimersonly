@@ -57,7 +57,7 @@
 }
 
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -71,8 +71,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -83,7 +83,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
@@ -137,7 +137,7 @@ header span.ribbon-inner {
   position: relative;
   display: block;
   background-color: #cd596b;
-  border: 8px solid #7c334f;
+  border: 8px solid #42001b;
   padding: 6px;
   z-index: 1;
 }
@@ -164,19 +164,19 @@ header span.right-tail {
 }
 
 header h1 {
-  background-color: #7c334f;
+  background-color: #42001b;
   font-size: 2em;
   font-weight: bolder;
   font-style: normal;
   text-transform: uppercase;
   color: #ece4d8;
   text-align: center;
-  line-height:1;  
+  line-height:1;
   padding: 14px 20px 0;
 }
 
 header h2 {
-  background-color: #7c334f;
+  background-color: #42001b;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
@@ -235,7 +235,7 @@ footer span.ribbon-inner {
   position: relative;
   display: block;
   background-color: #cd596b;
-  border: 8px solid #7c334f;
+  border: 8px solid #42001b;
   padding: 6px;
   z-index: 1;
 }
@@ -244,7 +244,7 @@ footer p {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: .6em;
-  color: #8b786f;
+  color: #42001b;
 }
 
 footer a {
@@ -252,7 +252,7 @@ footer a {
 }
 
 footer span.ribbon-inner p {
-  background-color: #7c334f;
+  background-color: #42001b;
   margin: 0;
   color: #e69b95;
   font: bold italic 22px/1 Georgia, Times, “Times New Roman”, serif;
@@ -316,7 +316,7 @@ body {
 }
 
 a, a:hover {
-  color: #417090;
+  color: #0d3ba5;
 }
 
 a {
@@ -363,7 +363,7 @@ ul li {
 blockquote {
   font-family: 'Open Sans', sans-serif;
   margin: 20px 0;
-  color: #8b786f;
+  color: #42001b;
   padding-left: 1.35em;
   background: transparent url('../images/blockquote-gfx-2x.png') 0 8px no-repeat;
 }
@@ -469,7 +469,7 @@ dd p:first-child {
 .header-level-1 {
   font-size: 1.85em;
   border-bottom: .2em double #d3ccc1;
-  color: #7c334f;
+  color: #42001b;
   text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
@@ -479,7 +479,7 @@ dd p:first-child {
 
 .header-level-2 {
   font-size: 1.58em;
-  color: #7c334f;
+  color: #42001b;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #D3CCC1;
   line-height: 1.2;
@@ -500,7 +500,7 @@ dd p:first-child {
 .header-level-5 {
   margin: .7em 0;
   font-size: 1em;
-  color: #8b786f;
+  color: #42001b;
 }
 
 .header-level-6 {
