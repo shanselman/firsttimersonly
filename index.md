@@ -38,7 +38,7 @@ Some had bad experiences. The purpose of `first-timers-only` is to help everyone
 
 If you are an OSS project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues). The `first-timers-only` label explicitly announces:
 
-> I'm willing to hold your hand so you can make your first PR. This issue is rather a bit easier than normal.
+> I'm willing to hold your hand so you can make your first PR. This issue is a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
 
 First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.
