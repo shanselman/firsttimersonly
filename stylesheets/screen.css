@@ -375,7 +375,8 @@ body {
 }
 
 a, a:hover {
-  color: #0d3ba5;
+  color: #42001b;
+  font-weight: bold;
 }
 
 a {
@@ -415,8 +416,8 @@ ul {
 }
 
 ul li {
-  padding-left: 10px;
-  background: transparent url(../images/chevron.png) left 6px no-repeat;
+  padding-left: 15px;
+  background: transparent url(../images/chevron.png) left 10px no-repeat;
 }
 
 blockquote {
