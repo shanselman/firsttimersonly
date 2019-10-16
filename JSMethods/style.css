@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #F64C72;
+}
+
+nav {
+    /* flex: 2; */
+    background-color: #2F2FA2;
+    padding: 2rem;
+    border-right: 5px solid gray;
+    overflow: auto;
+}
+
+nav ul li {
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.2rem;
+    line-height: 5rem;
+    
+    /* margin-top: 2rem; */
+    padding-top: 2rem; 
+    text-align: center;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+nav ul li a{
+    text-decoration: none;
+    position: relative;
+    bottom: 18px;
+    color: white;
+    
+}
+a {
+    opacity: 0.7;
+    text-decoration: none;
+    color: #99738E;
+}
+
+ a:hover {
+    opacity: 1;
+}
+
+.main-section ul {
+    padding: 2rem;
+}
+
+main {
+    max-width: 70%;
+    background-color:#242582;
+    padding: 2rem;
+    margin-left: 30%;
+}
+
+main section ol {
+    padding: 0 4rem;
+    color: #553D67;
+}
+
+main section ul li {
+    color: #553D67
+}
+
+main section .codeBlock {
+    display: block;
+    margin: 2rem auto;
+    word-break: normal;
+    background-color: #f7f7f7;
+    padding: 1.5rem;
+    border-radius: .5rem;
+    max-width: 50%;
+    overflow: auto;
+    min-width: 300px;
+}
+
+h3 {
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+    font-size: 2rem;
+    color: #99738E;
+}
+
+p {
+    line-height: 1.4;
+    padding: 1rem;
+    color: white;
+    font-size: 18px;
+}
+
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;
+    left: 6px;
+    z-index: 9999;
+    width: 30%;
+    height: 100vh;
+}
+
+
+@media (max-width: 800px) {
+    
+
+    main {
+        display: block;
+        max-width: 100%;
+        margin: 0px;
+        position: relative;
+        top: 270px;
+    }
+
+    .fixed-nav-bar {
+        position: absolute;
+        margin: 0%;
+        width: 100vw;
+        max-height: 270px;
+        border-bottom: 5px solid gray;
+    }
+    
+}
