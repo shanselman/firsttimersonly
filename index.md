@@ -18,9 +18,9 @@ If you have never contributed to an open source project before and you're just g
 
 ### Yes, it's scary. But SO rewarding!
 
-We asked folks on Twitter what they felt when they made their first contribution to an open source project. Here are just a few of their tweets.
+<u>We asked folks on Twitter what they felt when they made their first contribution to an open source project. Here are just a few of their tweets.</u>
 
-Some had great experiences:
+<h1>Some had great experiences:</h1>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> proud and excited. Added a feature to freecodecamp. Felt welcomed and wondered what else I was able to do.</p>&mdash; Ashley Drake (@al_draco) <a href="https://twitter.com/al_draco/status/630564607527137280">August 10, 2015</a></blockquote>
 
@@ -41,7 +41,7 @@ If you are an OSS project owner, then consider marking a few open issues with th
 > I'm willing to hold your hand so you can make your first PR. This issue is a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
 
-First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.
+First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.The OSS for begineer's are just to make them excited in the very well increasing world of OSS.
 
 Why is YAL (yet another label) like `first-timers-only` important? Because it makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged!
 
@@ -60,7 +60,7 @@ Markdown snippet:
 
 [Utkarsh Upadhyay](https://twitter.com/musically_ut) created a bot called [@first_tmrs_only](https://twitter.com/first_tmrs_only) which tweets when a new first-timers-only issue is posted on GitHub. Follow it to stay abreast with latest first-timers-only issues!
 
-[Angie Gonzalez](https://agonzalez0515.github.io/) and [Arlene Perez](https://github.com/techforchange) created a GitHub app called [First Timers](https://github.com/apps/first-timers) that automates most of the process of creating `first-timers-only` issues. Install the app on your repositories and commit simple changes to branches with names starting with `first-timers-` – the First Timers App will turn it into a fully fledged issue with all information a first-time Open Source contributor will need to make their first pull request.
+[Angie Gonzalez](https://agonzalez0515.github.io/) and [Arlene Perez](https://github.com/techforchange) created a GitHub app called [First Timers](https://github.com/apps/first-timers) that automates most of the process of creating `first-timers-only` issues. Install the app on your repositories and commit simple changes to branches with names starting with `first-timers-` – the First Timers App will turn it on in  https://github.com/Parimalisgreat/firsttimersonly.gito a fully fledged issue with all information a first-time Open Source contributor will need to make their first pull request.
 
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here!
