@@ -318,7 +318,8 @@ footer span.ribbon-inner p {
   margin: 0;
   color: #e69b95;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
-  padding-bottom:4px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 footer span.ribbon-inner a {
@@ -415,8 +416,8 @@ ul {
 }
 
 ul li {
-  padding-left: 10px;
-  background: transparent url(../images/chevron.png) left 6px no-repeat;
+  padding-left: 14px;
+  background: transparent url(../images/chevron.png) left 12px no-repeat;
 }
 
 blockquote {
