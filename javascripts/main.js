@@ -1,4 +1,3 @@
-// console.log('This main JS file.');
 window.addEventListener("load", function(event) {
   $('#main_content').headsmart();
 
