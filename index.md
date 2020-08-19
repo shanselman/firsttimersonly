@@ -17,7 +17,7 @@ If you have never contributed to an open source project before and you're just g
 * Wondering what someone else's first contribution was? You can easily find out any GitHub usernames "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
 * We think that open source projects [should value civility, kindness, and patience with new developers](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx). We encourage you to explore projects that have a published [Code of Conduct](https://www.contributor-covenant.org/).
 
-### Yes, it's scary. But SO rewarding!
+### Yes, it's scary. But it's ALSO rewarding!
 
 We asked folks on Twitter what they felt when they made their first contribution to an open source project. Here are just a few of their tweets.
 
@@ -37,14 +37,14 @@ Some had bad experiences. The purpose of `first-timers-only` is to help everyone
 
 ### Are you an OSS Project Owner?
 
-If you are an OSS project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues). The `first-timers-only` label explicitly announces:
+If you are an OSS project owner, then consider marking a few open issues with the label [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues). The `first-timers-only` label explicitly announces that:
 
 > I'm willing to hold your hand so you can make your first PR. This issue is a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
 
-First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.
+First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first time contributors.
 
-Why is YAL (yet another label) like `first-timers-only` important? Because it makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged!
+Why is YAL (yet another label) like `first-timers-only` important? Because it makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged! It is so good!
 
 Go label an issue or two with `first-timers-only` and *advertise* that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same! And add this badge to your repo's README:
 
