@@ -9,6 +9,7 @@ Contributing to open source for the first time can be scary and a little overwhe
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
 * [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you have made a contribution to the same project.
+* [SourceSort](https://www.sourcesort.com) aggregates projects that are looking for new contributors. You can search by language and topics and also see metrics for new contributors like response time to a first pull request.
 * [https://up-for-grabs.net](https://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
 * [goodfirstissues.com](https://goodfirstissues.com) is a site that aggregates *the latest issues* with the label "Good First Issue", which is a GitHub feature for finding easy issues to tackle (see [here](https://github.blog/2020-01-22-how-we-built-good-first-issues)). *goodfirstissues.com* empowers first-time contributors to find and select issues that they want to solve.
 * [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
