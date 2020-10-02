@@ -19,9 +19,9 @@ window.addEventListener("load", function(){
         "text": "#ffffff"
       },
       "button": {
-        "background": "transparent",
-        "text": "#ffffff",
-        "border": "#ffffff"
+        "background": "silver",
+        "text": "grey",
+        "border": "red"
       }
     }
   })
