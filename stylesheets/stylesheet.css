@@ -9,8 +9,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 17px;
+  line-height: 2;
   color: #606c71; }
 
 a {
@@ -21,7 +21,7 @@ a {
 
 .btn {
   display: inline-block;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -60,7 +60,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
+  background-color: #1fe080;
   background-image: linear-gradient(120deg, #155799, #159957); }
 
 @media screen and (min-width: var(--width-large)) {
@@ -127,9 +127,9 @@ a {
   background-color: #f3f6fa;
   border-radius: 0.3rem; }
 .main-content pre {
-  padding: 0.8rem;
+  padding: 0.85rem;
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
   color: #567482;
   word-wrap: normal;
