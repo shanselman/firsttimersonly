@@ -2,7 +2,7 @@
 layout: index
 ---
 ### Welcome! Let's do some open source!
-Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a [Code Newbie](https://www.codenewbie.org) or maybe you've been coding for a while but haven't found a project you felt comfortable contributing to.
+Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a [Code Newbie](https://www.codenewbie.org) [Urmm Yes?] or maybe you've been coding for a while but haven't found a project you felt comfortable contributing to.
 
 
 ### You can do it! Here's how.
@@ -32,7 +32,7 @@ Some had great experiences:
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> added expression support for labels in a GIS project. Felt fantastic. Now core developer on said project.</p>&mdash; Nathan Woodrow (@madmanwoo) <a href="https://twitter.com/madmanwoo/status/630546384865722369">August 10, 2015</a></blockquote>
 
-Some had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)!
+Some have had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)!
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Can&#39;t remember the project, but it felt hostile, because I didn&#39;t know the contribution rules of the project, and got remarks.</p>&mdash; Bart Verkoeijen (@bgever) <a href="https://twitter.com/bgever/status/630598265365401601">August 10, 2015</a></blockquote>
 
