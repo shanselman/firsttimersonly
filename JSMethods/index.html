@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Technical Documentation Page</title>
+</head>
+<body>
+    <nav id="navbar" class="fixed-nav-bar">
+        <header><h2>10 javaScript array methods you should know! </h2></header>
+        <ul>
+            <li><a class="nav-link" href="#Texto_Provisorio1">forEach()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio2">includes()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio3">filter()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio4">map()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio5">reduce()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio6">some()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio7">every()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio8">sort()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio9">Array.of()</a></li>
+            <li><a class="nav-link" href="#Texto_Provisorio10">Array.from()</a></li>
+            
+            
+        </ul>
+    </nav>
+    <main id="main-doc">
+        <section class="main-section" id="Texto_Provisorio1">
+            <header id="TextoProvisorio1"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach">forEach()</a> </h3></header>
+            <p> <code>forEach()</code> calls a provided <code>callback</code> function once for each element in an array in ascending order. It is not invoked for index properties that have benn deleted or are uninitialized</p>
+            <p><code>callback</code> is invoked with three arguments: </p>
+            <ol>
+                <li>The value of the element</li>
+                <li>The index of the element</li>
+                <li>The Array object being traversed</li>
+            </ol>
+               
+            <p>The following example logs, "one", "two", "four". When the entry containing the value "two is reached, the first entry of the whole array is shifted off. which results in all remaining entries moving up one position. Because element "four" is now at an earlier position in the array, "three" will be skipped. forEach() does not make a copy of the array before iterating.</p>
+            <code class="codeBlock">
+                const arr = ['one', 'two', 'three', 'four'] </br>
+                    
+                    arr.forEach(function(item){ <br>
+                    console.log(item);   </br>    
+                    if(item === 'two') {   </br>
+                        item.shift(); </br>
+                    } </br>
+                });
+            </code>
+        </section>
+        <section class="main-section" id="Texto_Provisorio2">
+            <header id="TextoProvisorio2"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes">includes()</a> </h3></header>
+            <p>A Boolean which is true if the value <code>valueToFind </code> is found within the array (or the part of the array indicated by the index  <code>fromIndex</code>, if specified). Values of zero are all considered to be equal regardless of sign (that is, -0 is considered to be equal to both 0 and +0), but false is not considered to be the same as 0.</p>
+            <p>The <code>includes()</code> method determines whether an array includes a certain value among its entries, returning <code>true</code> or <code>false</code>  as appropriate</p>
+            <ul>
+                <li><code> arr.includes(valueToFind[, fromIndex]) </code></li>
+            </ul>
+
+            <code class="codeBlock">
+                const array1 = [1, 2, 3]; </br>
+                console.log(array1.includes(2)); </br>
+                // expected output: true; </br>
+                
+                const pets = ['cat', 'dog', 'bat']; </br>
+                console.log(pets.includes('cat')); </br>
+                // expected output: true ; <br>
+
+                console.log(pets.includes('at')); <br>
+                // expected output: false;
+
+          </code>
+        </section>
+           
+        <section class="main-section" id="Texto_Provisorio3">
+            <header id="TextoProvisorio3"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter">filter()</a> </h3></header>
+            <p><code>filter()</code> calls a provided <code>callback</code> function once for each element in an array, and construct a new array of all the values for which <code>callback</code> returns a value that coerces to  true. <code>callback</code> is invoked only for indexes of the array which have assigned values; it is not invoked for indexes which have been deleted or which have never been assigned values. Array elements which do not pass the <code>callback</code>  test are simply skipped, and are not included in the new array.</p>
+            <p><code>callback</code> is invoked with three arguments:</p>
+            <ol>
+                <li>The value of the element</li>
+                <li>The index of the element</li>
+                <li>The Array object being traversed</li>
+            </ol>
+               
+            <p>The <strong>filter()</strong>  method creates a new array with all elements that pass the test implemented by the provides function</p>
+            <code class="codeBlock">
+                const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present']; <br>
+                const result = words.filter(word => word.length > 6); <br>
+                console.log(result); <br>
+                // expected output: Array ["exuberant", "destruction", "present"];
+            </code>
+        </section>
+
+        <section class="main-section" id="Texto_Provisorio4">
+            <header id="TextoProvisorio4">a<h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map">map()</a> </h3> </header>
+            <p>The <code>map()</code>  <strong>method creates a new array</strong> with results of calling a provided function on every element in the calling array.</p>
+            <p> <code>map</code> calls a provided <code>callback</code> function <strong>once for each element</strong> in an array, in order, and constructs a new array from the results.  <code>callback</code> is invoked only for indexes of the array which have assigned values, including undefined. It is not called for missing elements of the array (that is, indexes that have never been set, which have been deleted or which have never been assigned a value). </p> 
+            <p>Since map builds a new array, using it when you aren't using the returned array is an anti-pattern; use forEach or for-of instead. Signs you shouldn't be using map: A) You're not using the array it returns, and/or B) You're not returning a value from the callback.</p>
+            <code class="codeBlock">
+                    const arra1 = [1, 4, 9, 16]; <br>
+                    // pass a function to map <br>
+                    const map1 = array1.map(x => x * 2); <br>
+                    console.log(map1); <br>
+                    // expected output: Array [2, 8, 18, 32]
+
+            </code>
+        </section>
+
+        <section class="main-section" id="Texto_Provisorio5">
+            <header id="TextoProvisorio5"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce">reduce()</a> </h3> </header>
+            <p>The <strong>reduce()</strong> method executes a <strong>reducer</strong> function (that you provide) on each element of the array, resulting in a single output value.</p>
+            <p>Your <strong>reducer</strong> function's returned value is assigned to the accumulator, whose value is remembered across each iteration throughout the array and ultimately becomes the final, single resulting value.</p>            
+            <p>The <strong>reducer</strong> function takes four arguments: </p>
+            <ol>
+                <li>Accumulator (acc)</li>
+                <li>Current Value (cur)</li>
+                <li>Current Index (idx)</li>
+                <li>Source Array (src)</li>
+            </ol>
+
+            <p> <strong>Syntax</strong> <br>
+                <code>arr.reduce(callback(accumulator, currentValue[, index[, array]])[, initialValue])</code>
+            </p>
+            
+            <code class="codeBlock">
+                    const array1 = [1, 2, 3, 4]; <br>
+                    const reducer = (accumulator, currentValue) => accumulator + currentValue; <br>
+
+                    // 1 + 2 + 3 + 4 <br>
+                    console.log(arra1.reduce(reducer)); <br>
+                    // expected output: 10 <br>
+
+                    // 5 + 1 + 2 + 3 + 4 <br>
+                    console.log(arra1.reduce(reducer, 5)); <br>
+                    // expected output: 15 
+
+
+            </code>
+        </section>
+        <section class="main-section" id="Texto_Provisorio6">
+            <header id="TextoProvisorio5"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some">some()</a> </h3> </header>
+            <p>The <strong>some()</strong> method tests whether at leat one element in the array passes the test implementedby the provided function. It returns a Boolean value.</p>
+            <p>The <strong>some()</strong> method executes the <code>callback</code> function once for each element present in the array until it finds the one where <code>callback</code> return a truthy value. If such an element is found, some() immediately returns <code>true</code>. Otherwise, <code>some()</code> return false. <code>callbacks</code> is invoked only for indexes of the array with assigned values. I is not invoked for indexes which have been deleted or which have never been assigned values.</p>
+            <code class="codeBlock">
+                    const = [1, 2, 3, 4, 5]; <br>
+                    const even = function(element) { <br>
+                        //checks whether an element is even <br>
+                        return element % 2 === 0; <br>
+                    };
+
+                    console.log(array.some(even)); <br>
+                    // expected output: true 
+            </code>
+        </section>
+        <section class="main-section" id="Texto_Provisorio7">
+            <header id="TextoProvisorio5"><h3> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every">every()</a> </h3> </header>
+            <p>The <code>every</code> method executes the provided <code>callback</code> function once for each element present in the array until it finds the one where <code>callback</code> returns a falsy value. If such an element is found, the <code>every</code> method immediately returns <code>false</code>. Otherwise, if <code>callback</code> returns a truthy value for all elements, <code>every</code> returns <code>true</code></p>
+            <p>The <code>every()</code> method tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value.</p>
+            <p><code>callback</code> is invoked with three arguments</p>
+            <ol>
+                <li>Value of the element</li>
+                <li>the index of the element</li>
+                <li>Array object being traversed</li>
+            </ol>
+            <code class="codeBlock">
+                    function isBelowThreshold(currentValue) { <br>
+                        return currentValue < 40; <br>
+                    } <br>
+
+                    const array1 = [1, 30, 39, 29, 10, 13]; <br>
+
+                    console.log(array1.every(isBelowThreshold)); <br>
+                    // expected output: true
+            </code>
+        </section>
+        <section class="main-section" id="Texto_Provisorio8">
+            <header id="TextoProvisorio5"><h3> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort">sort()</a> </h3> </header>
+            <p>The <code>sort()</code> method sorts the element of an array and returns the sorted array. The default sort order is built upon converting the elements into strigs, then comparing their sequences of UTF-16 code units values</p>
+
+            <p>
+                Syntax: <br>
+                <code>arr.sort([compareFunction])</code>
+            </p>
+            <p>If <code>compareFunction</code> is not supplied, all non-undefined array elements are sorted by converting them to strings and comparing strings in UTF-16 code units order. For example, "banana" comes before "cherry". In a numeric sort, 9 comes before 80, but because numbers are converted to strings, "80" comes before "9" in the Unicode order. All <code>undefined</code> elements are sorted to the end of the array. All <code>undefined</code> elements are sorted to the end of the array.</p>
+            <code class="codeBlock">
+                    const months = ['March', 'Jan', 'Feb', 'Doc' ]; <br>
+                    months.sort(); <br>
+                    console.log(months); <br>
+                    // expected output: Array ['Dec', 'Feb', 'Jan', 'March'];
+
+                    const array1 = [1, 30, 4, 21, 100000]; <br>
+                    arra1.sort(); <br>
+                    console.log(arra1); <br>
+                    // expected output: Array [1, 100000, 21, 30, 4];
+            </code>
+        </section>
+        <section class="main-section" id="Texto_Provisorio9">
+            <header id="TextoProvisorio5"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of">Array.of()</a> </h3> </header>
+            <p>The <code>Array.of()</code> method creates a new <code>Array</code> instance from a variable number of arguments, regardless og number or type of the arguments</p>
+            <p>The difference between <code>Array.of()</code> and the <code>Array</code> constructor is in the handling of integer arguments: <code>Array.of(7) creates an array with a <code>length</code> property of 7 (<strong>Note:</strong> this implies an array of 7 empty slots, not slots with actual undefined values).</code></p>
+            <code class="codeBlock">
+                    Array.of(7);   //[7]; <br>
+                    Array.of(1, 2, 3); //[1, 2, 3] <br>
+
+                    Array(7);     //array of 7 empty slots <br>
+                    Array(1, 2, 3);  // [1, 2, 3]
+            </code>
+        </section>
+        <section class="main-section" id="Texto_Provisorio10">
+            <header id="TextoProvisorio5"><h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from">Array.from()</a> </h3> </header>
+            <p><code>Array.from()</code> lets you create <code>Arrays</code> from:</p>
+                <ul>
+                    <li>array-like objects(objects with a length property and indexed elements) or</li>
+                    <li>iterable objects (objects where you can get its elements, such as Map and Set</li>
+                </ul>
+            <p>Array.from() has an optional parameter mapFn, which allows you to execute a map function on each element of the array (or subclass object) that is being created. More crearly: <br>
+                <br>
+                <code>Array.from(obj, mapFn, thisArg) <br>
+                    has the same result as : <br>
+                    Array.from(obj).map(mapFn, thisArg), except that it does not create an intermediate array.
+                </code>
+            </p>
+            <p>The <code>Array.from()</code> method creates a new, shallow-copied <code>Array</code> instance from an array-like or iterable object.</p>
+            <code class="codeBlock">
+                    console.log(Array.from('foo')); <br>
+                    // expected output: Array ["f", "o", "o"] <br>
+                    <br>
+                    console.log(Array.from([1, 2, 3], x => x + x)); <br>
+                    // expected output: Array [2, 4, 6]
+            </code>
+        </section>
+        
+    </main>
+    
+
+</body>
+</html>
