@@ -201,14 +201,15 @@ header h2 {
 
 section#downloads,
 div#no-downloads {
-  position: relative;
-  display: block;
-  height: 197px;
-  width: 550px;
-  padding-bottom: 150px;
-  margin: -80px auto -150px;
-  z-index: 1;
-  background: transparent url(../images/bg-ramp.jpg) center 171px no-repeat;
+    position: relative;
+    display: block;
+    height: 0px;
+    width: 550px;
+    padding-bottom: 150px;
+    margin: 80px auto -135px;
+    z-index: 1;
+    background-color: #d3ccc1;
+    background-image: linear-gradient(#d3ccc1, #cd596b);
 }
 
 div#no-downloads span.inner {
