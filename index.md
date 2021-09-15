@@ -56,6 +56,8 @@ Markdown snippet:
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ```
 
+[Fosshost](https://fosshost.org) welcomes First Time Contributors, with an onboard process to help you get started in what you feel is the best way for you to contribute. A friendly team is always ready to help on IRC and Discord, and give advice to improve contributions.
+
 [Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://kentcdodds.com/blog/first-timers-only) to get  new people to make their first contribution. [Scott Hanselman](https://www.hanselman.com/) blogged about [Bringing Kindness Back to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
 
 [James Spencer](https://twitter.com/varjmes) created a great twitter account called [@yourfirstpr](https://twitter.com/yourfirstpr) that exists to showcase great issues that a newbie can solve in order to create "Your First Pull Request!" We recommend you follow [@yourfirstpr](https://twitter.com/yourfirstpr) and let them know if your OSS project has a `first-timers-only` tag and you have open issues that you'll reserve for a new contributor!
