@@ -1,7 +1,7 @@
 ---
 layout: index
 ---
-### Welcome! Let's do some open source!
+### Welcome here! Let's do some open source!
 Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a [Code Newbie](https://www.codenewbie.org) or maybe you've been coding for a while but haven't found a project you felt comfortable contributing to.
 
 
