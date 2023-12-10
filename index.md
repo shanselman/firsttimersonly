@@ -8,15 +8,15 @@ Contributing to open source for the first time can be scary and a little overwhe
 ### You can do it! Here's how.
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
-* [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.
+* [First contributions](https://github.com/firstcontributions/first-contributions) is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.
 * [https://up-for-grabs.net](https://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
-* [goodfirstissues.com](https://goodfirstissues.com) is a site that aggregates *the latest issues* with the label "Good First Issue", which is a GitHub feature for finding easy issues to tackle (see [here](https://github.blog/2020-01-22-how-we-built-good-first-issues)). *goodfirstissues.com* empowers first-time contributors to find and select issues that they want to solve.
+* [goodfirstissues.com](https://goodfirstissues.com) is a site that aggregates *the latest issues* with the label "Good First Issue", which is a GitHub feature for finding easy issues to tackle (see [how it was built](https://github.blog/2020-01-22-how-we-built-good-first-issues/)). *goodfirstissues.com* empowers first-time contributors to find and select issues that they want to solve.
 * [goodfirstissue.dev](https://goodfirstissue.dev/) curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
 * [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
-* Read blog posts and guides on how to [contribute to an open source project](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx), then pick one!
-* If you're just getting started with tech and are planning to become a social developer, we've made a documentary training movie for you! [Get Involved in Tech](http://www.getinvolvedintech.com) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
+* Read blog posts and guides on how to [contribute to an open source project](https://www.hanselman.com/blog/get-involved-in-open-source-today-how-to-contribute-a-patch-to-a-github-hosted-open-source-project-like-code-52), then pick one!
+* If you're just getting started with tech and are planning to become a social developer, we've made a documentary training movie for you! [Get Involved in Tech](https://getinvolved.hanselman.com/) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
 * Wondering what someone else's first contribution was? You can easily find out any GitHub usernames "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
-* We think that open source projects [should value civility, kindness, and patience with new developers](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx). We encourage you to explore projects that have a published [Code of Conduct](https://www.contributor-covenant.org/).
+* We think that open source projects [should value civility, kindness, and patience with new developers](https://www.hanselman.com/blog/bring-kindness-back-to-open-source). We encourage you to explore projects that have a published [Code of Conduct](https://www.contributor-covenant.org/).
 
 ### Yes, it's scary. But SO rewarding!
 
@@ -43,7 +43,7 @@ If you are an OSS project owner, then consider marking a few open issues with th
 > I'm willing to hold your hand so you can make your first PR. This issue is a bit easier than normal.
 > And anyone who's already contributed to open source isn't allowed to touch this one!
 
-First timer contributions are normally very small and easy (One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer). But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.
+First timer contributions are normally very small and easy. One [recent `first-timers-only`](https://github.com/formly-js/angular-formly/pull/415/files) issue was literally three lines of simple changes! And the changes were [described in great detail](https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984) and tested by the project maintainer. But this makes it easier for the contributor to _get the hang of the contribution process rather than the contribution itself._ Remember, this isn't as much about getting your project features implemented quickly as it is about helping first timers.
 
 Why is YAL (yet another label) like `first-timers-only` important? Because it makes a statement that first timers are welcome, that they are valued, and that they can start contributing to your project! Often [the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code](https://kentcdodds.com/blog/first-timers-only) such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged!
 
@@ -51,14 +51,12 @@ Go label an issue or two with `first-timers-only` and *advertise* that those iss
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-Markdown snippet:
+You can use this markdown snippet to add the badge:
 ```markdown
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ```
 
 [Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://kentcdodds.com/blog/first-timers-only) to get  new people to make their first contribution. [Scott Hanselman](https://www.hanselman.com/) blogged about [Bringing Kindness Back to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
-
-[James Spencer](https://twitter.com/varjmes) created a great twitter account called [@yourfirstpr](https://twitter.com/yourfirstpr) that exists to showcase great issues that a newbie can solve in order to create "Your First Pull Request!" We recommend you follow [@yourfirstpr](https://twitter.com/yourfirstpr) and let them know if your OSS project has a `first-timers-only` tag and you have open issues that you'll reserve for a new contributor!
 
 [Utkarsh Upadhyay](https://twitter.com/musically_ut) created a bot called [@first_tmrs_only](https://twitter.com/first_tmrs_only) which tweets when a new first-timers-only issue is posted on GitHub. Follow it to stay abreast with latest first-timers-only issues!
 
