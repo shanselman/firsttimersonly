@@ -318,7 +318,7 @@ footer span.ribbon-inner p {
   margin: 0;
   color: #e69b95;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
-  padding-bottom:4px;
+  padding:2px 0;
 }
 
 footer span.ribbon-inner a {
