@@ -63,7 +63,7 @@ You can use this markdown snippet to add the badge:
 
 [Utkarsh Upadhyay](https://twitter.com/musically_ut) created a bot called [@first_tmrs_only](https://twitter.com/first_tmrs_only) which tweets when a new first-timers-only issue is posted on GitHub. Follow it to stay abreast with latest first-timers-only issues!
 
-[Angie Gonzalez](https://agonzalez0515.github.io/) and [Arlene Perez](https://github.com/techforchange) created a GitHub app called [First Timers](https://github.com/apps/first-timers) that automates most of the process of creating `first-timers-only` issues. Install the app on your repositories and commit simple changes to branches with names starting with `first-timers-` – the First Timers App will turn it into a fully fledged issue with all information a first-time Open Source contributor will need to make their first pull request.
+[Angie Gonzalez](https://agonzalez0515.github.io/) and [Arlene Perez](https://github.com/techforchange) created a GitHub app called [First Timers](https://github.com/apps/first-timers) that automates most of the process of creating `first-timers-only` issues. Install the app on your repositories and commit simple changes to branches with names starting with `first-timers-only` – the First Timers App will turn it into a fully fledged issue with all information a first-time Open Source contributor will need to make their first pull request.
 
 ## Empower a First Timer today!
 
