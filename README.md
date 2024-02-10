@@ -1,12 +1,13 @@
 # FirstTimersOnly
-This Repository is for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
+This Repository is for the newbies in Open Source(like Hactoberfest,which is one of the best open source event counducted every year in the month of October). We want projects to reserve some issues for newbies.
+                !!!All the best to all the newbies!!!
 Visit our live webpage at https://www.firsttimersonly.com/
 ![Alt Text](https://raw.githubusercontent.com/lauras5/firsttimersonly/gh-pages/images/homePg.jpg)
 
 ## Empower a First Timer today!
 We believe - and we hope you believe too - that learning how to code, how to think, and how to contribute to open source can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere!
 
-We have gathered a list of resources to motivate and empower you to making that first step into becoming a contributor to the open source realm. 
+We have gathered a list of resources to motivate and empower you to making that first step into becoming a contributor to the open source realm.
 
 If you are an OSS project owner, we have some tips for you to enable you to be instrumental in ushering a new batch of programmers into the community.
 
