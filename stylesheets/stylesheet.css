@@ -17,7 +17,8 @@ a {
   color: #1e6bb8;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: underline;
+    transition: text-decoration 2s;}
 
 .btn {
   display: inline-block;
@@ -36,7 +37,8 @@ a {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
+  border-color: rgba(255, 255, 255, 0.3);
+  transition: background-color 2s;}
 
 @media screen and (min-width: var(--width-large)) {
   .btn {
